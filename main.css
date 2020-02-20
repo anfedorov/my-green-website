@@ -1,0 +1,14 @@
+body {
+  background: rgb(173, 209, 169);
+}
+#my-quotes {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+#my-quotes p {
+  font-family: "Lemonada", cursive;
+  zoom: 134%;
+}
